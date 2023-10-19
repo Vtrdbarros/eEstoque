@@ -1,0 +1,7 @@
+/estoque_app
+    /models
+        produto.py
+        lote.py (opcionais)
+    /database
+        csv_handler.py
+    main.py
